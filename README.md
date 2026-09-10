@@ -2,19 +2,19 @@
 
 Working to convert resume to CV Resume
 
-Work history
+# Work history
 
-USMC 2009-2013
+### USMC 2009-2013
 
 Infantry Rifleman
 
 Afghanistan 2010-11, 2011-12, 2013
 
-IBEW Local 540 2014-2016
+### IBEW Local 540 2014-2016
 
-Canal Fulton Fire Department 2017-2022
+### Canal Fulton Fire Department 2017-2022
 
-Massillon Fire Department 2020-2025
+### Massillon Fire Department 2020-2025
 
 Fire Suppression
 
@@ -40,23 +40,23 @@ PALS-Pediatric Advanced life support
 
 Rope Rescue
 
-Bowling Green State University 2020-2023
+### Bowling Green State University 2020-2023
 
 Fire Administration/Public administration
 
-Georgetown University 2025
+### Georgetown University 2025
 
 Warrior Scholar Project-Humanities
 
-University of Cincinnati 2024-2025
+### University of Cincinnati 2024-2025
 
 BA-Professional Development
 
-Ohio University
+### Ohio University
 
 MSSR-Sustainability, security, resilience (in progress)
 
-Cornell University 2026
+### Cornell University 2026
 
 MPS-Natural Resources and the Environment
 
